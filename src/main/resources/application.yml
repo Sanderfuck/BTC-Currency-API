@@ -1,0 +1,9 @@
+filepath: "{FILEPATH}: fileDB.txt"
+mail:
+  host: "smtp.gmail.com"
+  port: "587"
+  username: "{MAIL_USERNAME}: PUT_YOUR_USERNAME"
+  password: "{MAIL_PASSWORD}: PUT_YOUR_PASSWORD"
+
+
+spring.mvc.pathmatch.matching-strategy: "ANT_PATH_MATCHER"
